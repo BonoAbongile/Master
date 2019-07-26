@@ -47,17 +47,17 @@ table {
 	height:  634px;
 	width: 100%;
 	position: relative;
-	background-image: linear-gradient(100deg, #fffdc200 50%, rgba(253, 253, 253, 0.76) 50%), url("images/forest.png");
+	background-image: linear-gradient(100deg, #fffdc200 50%, rgba(253, 253, 253, 0.76) 50%), url("forest.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: black;
-	/* background-image: url('images/download.png'), url('images/clown.png');
+	/* background-image: url('download.png'), url('clown.png');
 	background-position: right, left;
 	background-repeat: no-repeat, no-repeat; */
-	/* background-image: linear-gradient(100deg,rgba(214, 73, 51, 0.76) 50%, #fffdc200 50%), url("images/road.png"); */
-	/* background-image: linear-gradient(100deg,rgba(214, 73, 51, 0.76) 50%, #fffdc200 50%), url("images/road.png") 0 0 repeat 10px 100px, url("images/download.png") 5px 5px no-repeat 5px 5px #FFF; */
+	/* background-image: linear-gradient(100deg,rgba(214, 73, 51, 0.76) 50%, #fffdc200 50%), url("road.png"); */
+	/* background-image: linear-gradient(100deg,rgba(214, 73, 51, 0.76) 50%, #fffdc200 50%), url("road.png") 0 0 repeat 10px 100px, url("download.png") 5px 5px no-repeat 5px 5px #FFF; */
 	/* background-image: url(images/road.png), url(images/download.png); */
-	/* background-image: linear-gradient(100deg,rgba(214, 73, 51, 0.76) 50%, #fffdc200 50%), url("images/road.png"); */
+	/* background-image: linear-gradient(100deg,rgba(214, 73, 51, 0.76) 50%, #fffdc200 50%), url("road.png"); */
 }
 /* .slider-container .clip-img {
 	height: 100%;
@@ -67,7 +67,7 @@ table {
 /* .slider-container .clip-img .img-1 {
 	width: 50%;
 	height: 100%;
-	background-image: url("images/forest.png");
+	background-image: url("forest.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	clip-path: polygon(0 0, 100% 0, 70% 100%, 0% 100%);
@@ -75,7 +75,7 @@ table {
 .slider-container .clip-img .img-2 {
 	width: 50%;
 	height: 100%;
-	background-image: url("images/city.png");
+	background-image: url("city.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	clip-path: polygon(30% 0, 100% 0, 100% 100%, 0 100%);
@@ -177,7 +177,7 @@ table {
 	width: 40%;
 }
 .circle-container .sec-col {
-	background-image: url('images/firstMe.jpg');
+	background-image: url("firstMe.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	border-radius: 100%;
@@ -279,7 +279,7 @@ table {
     height: 400px;
 	margin-bottom: 50px;
 	margin-top: 50px;
-	background-image: linear-gradient(to bottom, rgba(214, 73, 51, 0.76), rgba(214, 73, 51, 0.74)), url(images/city.png);
+	background-image: linear-gradient(to bottom, rgba(214, 73, 51, 0.76), rgba(214, 73, 51, 0.74)), url("city.png");
 	position: relative;
 }
 .about-container .abt-heading {
@@ -355,7 +355,7 @@ table {
 	color: white;
 }
 .features-container {
-	background-image: linear-gradient(100deg,rgba(214, 73, 51, 0.76) 50%, #fffdc200 50%), url("images/road.png");
+	background-image: linear-gradient(100deg,rgba(214, 73, 51, 0.76) 50%, #fffdc200 50%), url("road.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
